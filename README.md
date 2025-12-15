@@ -1,4 +1,5 @@
 # Personal Portfolio Website - Rayudu Somisetty
+#deployment link:- https://internshiptask1developersarena.netlify.app/
 
 A basic HTML personal portfolio website for Rayudu Somisetty, Computer Science Engineering student at GITAM Deemed University, showcasing skills, projects, and contact information.
 
@@ -172,12 +173,6 @@ By building this project, you'll learn:
 5. **Accessibility** - Making websites accessible to all users
 6. **Best Practices** - Writing clean, maintainable HTML code
 
-## 🔗 External Resources
-
-- [MDN Web Docs - HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [W3Schools HTML Tutorial](https://www.w3schools.com/html/)
-- [HTML Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
-- [HTML Form Validation](https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation)
 
 ## 📝 Quality Checklist
 
@@ -207,10 +202,5 @@ By building this project, you'll learn:
 
 Created as part of the Developers Arena Web Development Internship - Task 1
 
-## 📄 License
-
-This project is open source and available for educational purposes.
-
----
 
 **Note:** This is a basic HTML portfolio without any CSS styling, designed as a beginner-level web development project. The website contains real information about Rayudu Somisetty and demonstrates fundamental HTML concepts including semantic markup, forms, lists, and internal navigation.
